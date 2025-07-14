@@ -49,4 +49,4 @@ Las contribuciones son bienvenidas. Por favor, abre un issue o pull request para
 
 ## Licencia
 
-Este proyecto está bajo la licencia MIT.
+Este proyecto no está bajo ninguna licencia.
